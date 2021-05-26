@@ -1,6 +1,7 @@
 # Info
 
 - **Coding Exercise 4 (NodeJS-JWT-Authentication-Test) for ITIS 4166 (Network Based App Development)**
+- **Term Class Taken: Spring 2020**
 - **Please follow along with the video 07b - Authentication/Authorization.**
 - **After that is done:**
      1. Create 1 more route (called settings) and protect this route with the JWT solution
